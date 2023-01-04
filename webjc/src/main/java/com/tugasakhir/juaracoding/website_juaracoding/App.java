@@ -1,4 +1,4 @@
-package com.juaracoding.kelompok2.webjc;
+package com.tugasakhir.juaracoding.website_juaracoding;
 
 /**
  * Hello world!
